@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+      <head>
+        <title> SAVE YOUR TIME!</title>
+       </head>
 
-You can use the [editor on GitHub](https://github.com/ProvoIone/This-is/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+<div>
+<h1> HELP YOURSELF</h1>
+<h> STOP WASTING TIME</h2>
+<p> This is a project created by Julian Kang in honor of those who have no lives. Julian, in fact, has no life.</p>
+</div>
+<p> The only way to get a life is to have time to have one. This is a project that will help you have more time.</p>
+<img src=https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Fmobile%2F000%2F040%2F009%2F3dsaulcover.jpg>
+</body>
+<div>
+<ul>
+    <li> Assignment Name </li>
+    <li> Assignment Time </li>
+    <li> Assigntment Importance </li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<p> id="The Reason" style="color: black;">The Reason why I wanted to do this is because I found myself without time and freedom
+And the only way to solve this was to have more time. If I had more free time and still complete work in high quality,
+I would be able to be happy. This is why I set out to complete this project</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</div>
+<body>
+<div>
+<p><span>YOU</span> Must know your weakness.</p>
+</div>
 
-```markdown
-Syntax highlighted code block
+<div>
+<p>It is not just me... <strong>BUT YOU TOO</strong> who is struggling!</p>
+</div>
+</body>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ProvoIone/This-is/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body>
+<font size="+5">SAVE YOURSELF AND YOUR TIME!.</font>
+</html>
