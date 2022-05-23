@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
       <head>
-        <title> SAVE YOUR TIME!</title>
+        <h1> SAVE YOUR TIME!</h1>
        </head>
 
 <body>
@@ -20,8 +20,9 @@
     <li> Assigntment Importance </li>
 </ul>
 
+<h1>THE REASON</h1>
 
-<p> id="The Reason" style="color: black;">The Reason why I wanted to do this is because I found myself without time and freedom
+The Reason why I wanted to do this is because I found myself without time and freedom
 And the only way to solve this was to have more time. If I had more free time and still complete work in high quality,
 I would be able to be happy. This is why I set out to complete this project</p>
 
