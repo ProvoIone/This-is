@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
       <head>
-        <title> SAVE YOUR TIME!</title>
-       </head>
+        <font size="+10">SAVE TIME!.</font>
+      </head>
 
 <body>
 <div>
