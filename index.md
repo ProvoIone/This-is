@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
       <head>
-        <font size="+10">SAVE TIME!.</font>
+        <h1> HELP YOURSELF</h1>
       </head>
 
 <body>
 <div>
-<h1> HELP YOURSELF</h1>
-<h> STOP WASTING TIME</h2>
+<h2> STOP WASTING TIME</h2>
 <p> This is a project created by Julian Kang in honor of those who have no lives. Julian, in fact, has no life.</p>
 </div>
 <p> The only way to get a life is to have time to have one. This is a project that will help you have more time.</p>
