@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
       <head>
-        <h1> SAVE YOUR TIME!</h1>
+        <title> SAVE YOUR TIME!</title>
        </head>
 
 <body>
